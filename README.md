@@ -1,7 +1,7 @@
 # 🚦 Road Accidents in India — Analysis & Machine Learning Project
 
 This project presents a comprehensive analysis of road accidents across India (2014) based on three major factors:
-1️⃣ Lane / Road Type
+1️⃣ Lane / Road Type 
 2️⃣ Vehicle Type
 3️⃣ Reason / Cause of Accident
 
